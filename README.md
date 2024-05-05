@@ -14,6 +14,3 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ThanhHung0203&icon=9&color=1)](https://visitcount.itsvg.in)
